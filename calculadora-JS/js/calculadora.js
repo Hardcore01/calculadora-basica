@@ -40,7 +40,7 @@ botones.forEach(boton => {
 
         }else{
             pantalla.textContent += btnclick;
-            return;
+            return; 
         }
     })
 });
